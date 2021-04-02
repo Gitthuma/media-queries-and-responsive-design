@@ -69,3 +69,24 @@ main {
   padding: 0.5em 1em;
   color: #fff;
 }
+
+@media screen and (min-width: 60em) {
+  header {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    column-gap: 20px;
+    align-items: center;
+  }
+
+  nav ul {
+    display: flex;
+  }
+
+  nav li {
+    flex: 1;
+  }
+
+  nav a {
+    border-top: none;
+  }
+}
