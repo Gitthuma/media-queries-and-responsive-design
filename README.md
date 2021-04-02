@@ -9,3 +9,5 @@ Download the starting point. Open this in your browser and you will find a wiref
 Your task is to create a desktop version of this layout which displays when there is enough screen width to accommodate it. You can see the layout you are aiming for in the screenshot below.
 
 Ref: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/rwd_skills
+
+Live web: https://gitthuma.github.io/media-queries-and-responsive-design/
