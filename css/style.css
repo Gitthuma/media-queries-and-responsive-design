@@ -89,4 +89,14 @@ main {
   nav a {
     border-top: none;
   }
+
+  main {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    column-gap: 20px;
+  }
+
+  .sidebar {
+    margin-top: 20px;
+  }
 }
